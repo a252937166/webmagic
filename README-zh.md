@@ -3,10 +3,15 @@
 
 [![Build Status](https://travis-ci.org/code4craft/webmagic.png?branch=master)](https://travis-ci.org/code4craft/webmagic)
 
+原项目地址：[https://github.com/code4craft/webmagic](https://github.com/code4craft/webmagic)
 
 官方网站[http://webmagic.io/](http://webmagic.io/)
 
+
+>我在项目基础上，根据个人习惯做了一些修改，也删除了一些不需要的功能，需要研究源码的同学建议去原项目地址看看。
+
 >webmagic是一个开源的Java垂直爬虫框架，目标是简化爬虫的开发流程，让开发者专注于逻辑功能的开发。webmagic的核心非常简单，但是覆盖爬虫的整个流程，也是很好的学习爬虫开发的材料。
+
 
 
 webmagic的主要特色：
