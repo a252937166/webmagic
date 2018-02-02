@@ -26,12 +26,26 @@
 			<version>1.2.0</version>
 		</dependency>
 
+		<dependency>
+			<groupId>com.ouyanglol</groupId>
+			<artifactId>quick-spring</artifactId>
+			<version>1.0</version>
+		</dependency>
+
+		<!--七牛-->
+		<dependency>
+			<groupId>com.qiniu</groupId>
+			<artifactId>qiniu-java-sdk</artifactId>
+			<version>7.2.4</version>
+		</dependency>
+
 
 
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
 		</dependency>
+
 	</dependencies>
 
 	<build>

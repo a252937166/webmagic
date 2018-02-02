@@ -21,7 +21,7 @@ public class SeleniumTest {
     @Test
     public void testSelenium() {
 
-        System.getProperties().setProperty("webdriver.chrome.driver", "/Users/Ouyang/Documents/myProjects/chromedriver");
+        System.getProperties().setProperty("webdriver.chrome.driver", "D:/lib/chromedriver.exe");
         Map<String, Object> contentSettings = new HashMap<String, Object>();
         contentSettings.put("images", 2);
         Map<String, Object> preferences = new HashMap<String, Object>();
